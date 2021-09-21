@@ -7,9 +7,9 @@
 - 鲁棒性好，能较好的区分多边形和圆
 - 没采用深度学习等模型，纯算法，速度快
 
-有任何问题或者合作需求可留言或联系邮箱2435791180@qq.com
-
 <div align="left">
     <img src="res/demo1.gif", width="400" alt><br>
     <img src="res/demo2.gif", width="400" alt><br>
 </div>
+
+有任何问题或者合作需求可留言或联系邮箱2435791180@qq.com
