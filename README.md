@@ -9,5 +9,8 @@
 
 有任何问题或者合作需求可留言或联系邮箱2435791180@qq.com
 
+<div align="center">
+    <img src="res/demo1.gif", width="400" alt><br>
+</div>
 ![image](https://github.com/2435791180/one_stroke_drawing/tree/main/res/demo1.gif)
 ![image](https://github.com/2435791180/one_stroke_drawing/tree/main/res/demo2.gif)
